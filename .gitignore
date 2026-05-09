@@ -1,0 +1,10 @@
+# Build output
+build/
+tinycpu
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+*.swp
