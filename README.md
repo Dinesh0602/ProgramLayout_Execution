@@ -109,3 +109,12 @@ After `make` you'll also see `tinycpu` and `build/`.
 | `make trace`  | Run `factorial` with `--trace`.                                         |
 | `make debug`  | Run with `--trace --dump-after 0x0000:0x009F`.                          |
 | `make clean`  | Remove `build/` and `./tinycpu`.                                        |
+
+
+## Important Links
+
+-  [GitHub Repository](https://github.com/Dinesh0602/ProgramLayout_Execution)
+-  [Demo Video](https://drive.google.com/file/d/1DE4fC7qj7JRA-exhVDDIDrZKu6qjP7Oo/view)
+-  [Report](https://docs.google.com/document/d/1dR34aomHsokEhqZBXpKYBJuwjw_SzwrNFlwfXogUbew/view)
+
+This demo demonstrates the full execution pipeline on TinyCPU: from assembly source code to binary, through CPU execution, including function calls, recursion using the stack, memory layout, and final program output.
